@@ -4,7 +4,7 @@
 
 #Made a small project on data analytics under ShapeAI bootcamp using jupyter notebook.In this project we have done some analysis on Titanic survivors data and have come up with some conclusions.
 
-#we have upload two files with this project:
+#I have uploaded two files with this project:
 
 1.train(1).csv
 
